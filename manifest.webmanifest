@@ -1,0 +1,21 @@
+{
+  "name": "RAMZAN & Go",
+  "short_name": "RAMZAN & Go",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#040818",
+  "theme_color": "#0A1438",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
